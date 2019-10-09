@@ -1,4 +1,7 @@
 # E07a-Particles
+# This assignment is to play with particles.
+# I can adjust variables to any number as long as I feel satisfied. It's fun.
+
 Playing with particles and emitters
 
 This is an opportunity for you to play with some particles. As you hold down the mouse button, particles are generated and appended to self.particle_list. You will have the opportunity to play with the parameters for generating the particles to explore different effects.
